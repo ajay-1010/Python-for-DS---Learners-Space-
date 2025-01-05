@@ -1,0 +1,38 @@
+﻿Topic,Target Completion Date,Type,Resources,To Do
+Data Science vs Data Analytics,"July 9, 2024",Optional,https://www.youtube.com/watch?v=dcXqhMqhZUo,
+Probability Distributions,"July 9, 2024",Learning,"1. https://medium.com/analytics-vidhya/statistics-mean-median-mode-variance-standard-deviation-47fab926465a
+2. https://www.youtube.com/watch?v=772_n15Ke9Q&list=PLIeGtxpvyG-KdqFkNrED9w8j9dEMMLj7e&index=2
+3. https://www.youtube.com/watch?v=VynoD2lLuxg
+4. https://www.youtube.com/watch?v=bT1p5tJwn_0
+5. https://www.youtube.com/watch?v=8OaNOCblGZY",There is no need to memorize the exact formulas but try to understand and have an overview of these topics.
+Hypothesis Testing and p-values,"July 9, 2024 → July 10, 2024",Learning,"1. https://www.youtube.com/watch?v=0oc49DyA3hU
+2. https://www.youtube.com/watch?v=vemZtEM63GY
+3. https://www.youtube.com/watch?v=JQc3yx0-Q9E",
+The Central Limit Theorem,"July 11, 2024",Learning,https://www.youtube.com/watch?v=zeJD6dqJ5lo,
+Supervised vs Unsupervised Learning,"July 11, 2024",Learning,https://www.youtube.com/watch?v=W01tIRP_Rqs,
+Linear Regression,"July 11, 2024 → July 12, 2024",Learning,"1. https://youtu.be/7ArmBVF2dCs?si=0lD75LpNouq9ayKQ 
+2. https://www.youtube.com/watch?v=P8hT5nDai6A
+3. https://youtu.be/VmbA0pi2cRQ?si=5-LWO3JYEGWgpa2R",
+scikit-learn,"July 13, 2024",Learning,"1. https://www.youtube.com/watch?v=rvVkVsG49uU
+2. https://www.youtube.com/watch?v=ukZn2RJb7TU&list=PLcQVY5V2UY4LNmObS0gqNVyNdVfXnHwu8&index=24
+3. https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html#sklearn.linear_model.LinearRegression",Try to implement these yourselves using either the video tutorials or the documentation.
+Multiple Linear Regression,"July 14, 2024",Learning,"1. https://www.youtube.com/watch?v=EkAQAi3a4js
+2. https://www.youtube.com/watch?v=KYNuzfn5Fx0",
+Linear Regression With Multiple Variables,,Optional,https://www.youtube.com/watch?v=J_LnPL3Qg70&list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw&index=4,
+Polynomial Regression,,Optional,https://youtu.be/H8kocPOT5v0?si=Ch04Ee--9VPYsB6m,
+Regression vs Classification,"July 15, 2024",Learning,https://youtu.be/TJveOYsK6MY?si=UmRD2NkLMXx32u4u,
+Logistic Regression,"July 15, 2024 → July 16, 2024",Learning,"1. https://www.youtube.com/watch?v=d0woPPu6n6g                                                2. https://www.youtube.com/watch?v=obbalnq94rA&t=92s                              3. https://www.youtube.com/watch?v=uzcH8vnjPuQ
+4. https://www.youtube.com/watch?v=N-TTUvirIXM&t=4s     
+5. https://youtu.be/het9HFqo1TQ?feature=shared&t=3952 ","In the 5th video, cover only the Newton’s Method part and optionally the logistic regression part for a summary of logistic regression. "
+Decision Trees,"July 17, 2024",Learning,"1. https://youtu.be/ZVR2Way4nwQ?si=9m65QKjsoZHMYvUb
+2. https://www.youtube.com/watch?v=UhY5vPfQIrA&list=PLM8wYQRetTxAl5FpMIJCcJbfZjSB0IeC_&index=3
+3. https://www.youtube.com/watch?v=v6VJ2RO66Ag&list=PLM8wYQRetTxAl5FpMIJCcJbfZjSB0IeC_&index=5
+4.https://www.youtube.com/watch?v=XmSlFPDjKdc&t=485s",The implentation is a must to do and will be required to be submitted as a part of the assignment.
+Support Vector Machines,,Optional,https://youtu.be/ny1iZ5A8ilA?si=jq9dYmsSDpiK9G2B,
+K - Nearest Neighbors,,Optional,"https://www.youtube.com/watch?v=4HKqjENq9OU ",
+Naive Bayes Classifier,,Optional,"https://www.youtube.com/watch?v=O2L2Uv9pdDA
+https://www.youtube.com/watch?v=H3EjCKtlVog
+https://www.youtube.com/watch?v=lFJbZ6LVxN8",
+Stochastic Gradient Descent,,Optional,https://www.youtube.com/watch?v=vMh0zPT0tLI,
+Neural Networks,,Optional,https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=1&t=8s,
+Review Questions,"July 18, 2024 → July 21, 2024",Assignment,https://drive.google.com/drive/folders/18h82qlCn21XxH5OjB5XGP8HZ6tcZ7Mrq?usp=drive_link,"The deadline for submission is 21st  July, 11:59 PM. Here is the submission link for the assignment - https://forms.gle/k45dsHBKhf5v1L159 "

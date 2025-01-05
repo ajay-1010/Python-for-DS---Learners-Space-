@@ -1,0 +1,15 @@
+﻿Topic,Target Completion Date,Type,Resources,To Do
+What is unsupervised learning?,"July 21, 2024",Learning,"https://www.ibm.com/topics/unsupervised-learning
+https://www.youtube.com/watch?v=DLfh8pv4-yQ",
+Hierarchical Clustering,"July 22, 2024",Learning,"https://www.youtube.com/watch?v=rg2cjfMsCk4
+https://www.youtube.com/watch?v=v7oLMvcxgFY",
+K-Means Clustering,"July 23, 2024",Learning,"https://www.youtube.com/watch?v=RD0nNK51Fp8&list=RDQM5xF4nVHo4hk&index=3
+https://www.youtube.com/watch?v=lX-3nGHDhQg",
+Gaussian Mixture Models,,Optional,https://www.youtube.com/watch?v=q71Niz856KE&list=PLs8w1Cdi-zvZGyT2Rt0ieA0G6xGUqn3Xw&index=1,
+Principal Component Analysis,"July 24, 2024",Learning,https://youtu.be/g-Hb26agBFg?feature=shared,
+Matrix Factorization,,Optional,"https://www.youtube.com/watch?v=ZspR5PZemcs&list=PLs8w1Cdi-zvZGyT2Rt0ieA0G6xGUqn3Xw&index=5
+https://towardsdatascience.com/recommendation-system-matrix-factorization-d61978660b4b",
+Anomaly Detection,"July 25, 2024 → July 26, 2024",Learning,"https://www.youtube.com/watch?v=OS9xRGKfx4E
+https://www.youtube.com/watch?v=XPwCo4cqqt0",
+Singular Value Decomposition,,Optional,https://www.youtube.com/watch?v=DG7YTlGnCEo&list=PLs8w1Cdi-zvZGyT2Rt0ieA0G6xGUqn3Xw&index=8,
+Capstone Project,"July 27, 2024 → July 29, 2024",Assignment,"https://drive.google.com/drive/folders/1hnub4Xq6kleo_pnHVm-qqVlJAS31EdZH?usp=drive_link ",Throughout the four weeks of the course you have learned to implement various different Data Science Algorithms. Its time to implement these. The deadline for the submission will be by 4th August 2024. Here's the submission link for the project - https://forms.gle/32yNKH7L8zHiqphi8 
